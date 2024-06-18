@@ -1,0 +1,178 @@
+2024-05-09 14:32:29 WARN  DangNhapGUI:252 -  Người dùng đăng nhập lỗi!
+2024-05-09 17:23:58 WARN  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-09 17:24:20 WARN  DangNhapGUI:456 - Đã thanh toán: 25000 qua: momo
+2024-05-09 17:26:31 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-09 17:44:24 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-09 17:53:52 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-09 17:54:21 INFO  DangNhapGUI:196 - Người dùng đăng xuất
+2024-05-09 17:54:28 INFO  DangNhapGUI:246 - Nhân Viên 7 đăng nhập thành công!
+2024-05-09 17:54:40 INFO  DangNhapGUI:196 - Người dùng đăng xuất
+2024-05-09 18:35:02 INFO  DangNhapGUI:246 - Nhân Viên 7 đăng nhập thành công!
+2024-05-09 18:35:07 INFO  DlgDoiMatKhau:200 - Nhân Viên thulai đăng xuất
+2024-05-09 18:35:16 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-09 18:37:49 INFO  DlgCapTaiKhoan:174 - Quản Trị admin cấp tài khoản cho: Quản Trị với tên đăng nhập: liemha
+2024-05-09 18:45:32 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-09 18:46:00 INFO  PnQuanLyKhachHangGUI:398 - Quản Trị admin thêm mới khách hàng: Lương Tân
+2024-05-09 18:46:09 INFO  PnQuanLyKhachHangGUI:409 - Quản Trị admin sửa khách hàng: Lê Tài
+2024-05-09 19:01:13 INFO  DangNhapGUI:246 - Nhân Viên 7 đăng nhập thành công!
+2024-05-09 19:02:10 INFO  DangNhapGUI:246 - Quản Trị 8 đăng nhập thành công!
+2024-05-09 19:02:40 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-09 19:02:59 INFO  DlgQuyen_MatKhau:263 - Quản Trị admin đặt lại quyền cho người dùng mã: 8 quyền: Quản Trị
+2024-05-09 19:03:04 INFO  DlgDoiMatKhau:200 - Quản Trị admin đăng xuất
+2024-05-09 19:03:11 INFO  DangNhapGUI:246 - Quản Lý 8 đăng nhập thành công!
+2024-05-09 19:09:14 INFO  DangNhapGUI:246 - Nhân Viên 7 đăng nhập thành công!
+2024-05-09 19:12:25 INFO  DangNhapGUI:246 - Nhân Viên 7 đăng nhập thành công!
+2024-05-09 19:14:37 INFO  DangNhapGUI:246 - Nhân Viên 7 đăng nhập thành công!
+2024-05-09 19:16:19 INFO  PnQuanLyKhachHangGUI:420 - Nhân Viên thulai xoá khách hàng: Phan Hiển
+2024-05-09 19:17:25 INFO  DangNhapGUI:246 - Nhân Viên 7 đăng nhập thành công!
+2024-05-09 19:19:37 INFO  DangNhapGUI:246 - Nhân Viên 7 đăng nhập thành công!
+2024-05-09 19:21:31 INFO  DlgThemKhachHang:164 - Nhân Viên thulai thêm mới khách hàng: test test
+2024-05-09 19:22:38 INFO  DangNhapGUI:456 - Đã thanh toán: 481500 qua: bank
+2024-05-09 19:25:06 INFO  PnQuanLyKhachHangGUI:420 - Nhân Viên thulai xoá khách hàng: Lê Tài
+2024-05-09 19:25:44 INFO  DlgDoiMatKhau:200 - Nhân Viên thulai đăng xuất
+2024-05-09 19:26:02 INFO  DangNhapGUI:246 - Quản Lý 8 đăng nhập thành công!
+2024-05-09 19:30:09 INFO  DlgCapTaiKhoan:174 - Quản Lý nhan cấp tài khoản cho: Nhân Viên với tên đăng nhập: test
+2024-05-09 19:30:39 INFO  DlgCapTaiKhoan:174 - Quản Lý nhan cấp tài khoản cho: Nhân Viên với tên đăng nhập: test
+2024-05-09 19:31:09 INFO  DlgDoiMatKhau:200 - Quản Lý nhan đăng xuất
+2024-05-09 19:31:22 WARN  DangNhapGUI:253 -  Người dùng đăng nhập lỗi!
+2024-05-09 19:31:28 INFO  DangNhapGUI:246 - Quản Lý 8 đăng nhập thành công!
+2024-05-09 19:32:20 INFO  DangNhapGUI:152 - Phạm Trọng Nhân đã nhập hàng từ nhà cung cấp: Phạm Trọng Nhân số tiền: 500000
+2024-05-09 19:32:54 INFO  DlgDoiMatKhau:200 - Quản Lý nhan đăng xuất
+2024-05-09 19:33:02 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-09 20:50:40 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-09 21:57:37 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-09 22:01:10 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-09 22:01:39 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-09 22:03:45 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-09 22:04:14 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-09 22:05:03 INFO  DangNhapGUI:456 - Đã thanh toán: 10000 qua: momo
+2024-05-09 22:06:01 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-09 22:06:46 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-09 22:07:34 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-09 22:08:17 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-09 22:08:57 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-09 22:09:18 INFO  DangNhapGUI:456 - Đã thanh toán: 249000 qua: bank
+2024-05-09 22:14:55 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-09 23:59:49 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 00:06:05 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 00:07:08 INFO  DangNhapGUI:456 - Đã thanh toán: 249000 qua: cash
+2024-05-10 00:10:19 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 00:21:50 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 00:24:58 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 00:27:02 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 00:36:30 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 00:36:48 INFO  DlgDoiMatKhau:200 - Quản Trị admin đăng xuất
+2024-05-10 00:36:56 INFO  DangNhapGUI:246 - Quản Lý 8 đăng nhập thành công!
+2024-05-10 00:39:03 INFO  DlgDoiMatKhau:200 - Quản Lý nhan đăng xuất
+2024-05-10 00:39:12 INFO  DangNhapGUI:246 - Quản Trị 10 đăng nhập thành công!
+2024-05-10 00:39:17 INFO  DlgDoiMatKhau:200 - Quản Trị liemha đăng xuất
+2024-05-10 00:46:18 INFO  DangNhapGUI:246 - Quản Lý 8 đăng nhập thành công!
+2024-05-10 00:46:31 INFO  PnQuanLyKhuyenMaiGUI:896 - Quản Lý nhan sửa nhân vien: Hà Liêm
+2024-05-10 00:47:59 INFO  DangNhapGUI:246 - Quản Lý 8 đăng nhập thành công!
+2024-05-10 00:49:19 INFO  DangNhapGUI:246 - Quản Lý 8 đăng nhập thành công!
+2024-05-10 00:52:08 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 00:55:12 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 00:58:59 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 01:34:32 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 03:34:30 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 03:36:40 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 03:37:39 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 03:40:10 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 03:43:04 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 03:45:25 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 03:47:12 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 03:47:53 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 03:49:10 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 03:49:47 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 03:50:24 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 03:52:54 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 03:54:28 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 03:55:57 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 03:56:51 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 03:58:57 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 04:03:01 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 04:05:00 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 04:09:04 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 04:09:17 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 04:13:13 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 04:16:40 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 04:30:44 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 04:44:44 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 04:47:24 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 04:49:57 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 04:53:04 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 04:54:04 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 05:06:09 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 05:07:58 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 05:10:19 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 05:11:41 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 05:15:34 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 05:16:55 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 05:18:10 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 05:24:13 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 05:32:47 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 06:12:33 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 06:13:34 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 06:14:19 INFO  PnQuanLyKhuyenMaiGUI:358 - Quản Trị admin thêm khuyến mãi: test
+2024-05-10 06:14:30 INFO  PnQuanLyKhuyenMaiGUI:384 - Quản Trị admin xoá khuyến mãi: test
+2024-05-10 06:21:32 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 08:41:58 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 08:46:24 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 09:46:21 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 09:48:32 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 10:03:42 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 10:05:39 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 10:14:05 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 10:16:54 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 11:52:54 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 11:58:10 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 12:03:32 INFO  PnQuanLyKhuyenMaiGUI:953 - Quản Trị admin sửa nhân vien: test test1
+2024-05-10 12:03:51 INFO  PnQuanLyKhuyenMaiGUI:953 - Quản Trị admin sửa nhân vien: test test1
+2024-05-10 12:04:14 INFO  PnQuanLyKhuyenMaiGUI:953 - Quản Trị admin sửa nhân vien: test test1
+2024-05-10 12:07:19 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 12:07:26 INFO  DlgDoiMatKhau:200 - Quản Trị admin đăng xuất
+2024-05-10 12:07:33 INFO  DangNhapGUI:246 - Quản Lý 8 đăng nhập thành công!
+2024-05-10 12:09:07 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 12:10:10 INFO  XuatPhieuNhapGUI:152 -  admin đã nhập hàng từ nhà cung cấp: Phạm Trọng Nhân số tiền: 10000
+2024-05-10 12:19:34 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 12:20:14 INFO  PnQuanLyKhuyenMaiGUI:915 - Quản Trị admin nhập excel
+2024-05-10 12:20:46 INFO  PnQuanLyKhuyenMaiGUI:915 - Quản Trị admin nhập excel
+2024-05-10 12:23:10 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 12:23:29 INFO  PnQuanLyKhuyenMaiGUI:915 - Quản Trị admin nhập excel
+2024-05-10 12:24:32 INFO  PnQuanLyKhuyenMaiGUI:915 - Quản Trị admin nhập excel
+2024-05-10 12:29:12 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 13:00:27 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 13:02:10 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 13:02:48 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 13:03:18 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 13:03:51 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 13:05:43 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 13:06:37 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 13:07:03 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 13:07:53 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 13:08:16 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 13:33:18 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 13:36:54 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 13:43:45 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 13:47:16 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 13:51:42 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 13:53:58 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 13:55:08 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 13:58:57 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 14:02:44 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 14:06:04 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 14:06:33 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 14:06:57 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 14:08:40 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 14:09:55 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 14:13:11 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 14:14:15 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 14:14:49 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 14:15:21 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 14:16:02 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 14:16:37 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 14:17:55 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
+2024-05-10 14:18:05 INFO  DlgDoiMatKhau:200 - Quản Trị admin đăng xuất
+2024-05-10 14:18:10 INFO  DangNhapGUI:246 - Quản Lý 8 đăng nhập thành công!
+2024-05-10 14:19:03 INFO  DlgDoiMatKhau:200 - Quản Lý nhan đăng xuất
+2024-05-10 14:19:09 INFO  DangNhapGUI:246 - Quản Trị 3 đăng nhập thành công!
